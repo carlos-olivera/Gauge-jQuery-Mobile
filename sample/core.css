@@ -1,0 +1,12 @@
+/* CSS Document */
+.aviso {
+	background-color: #CCC;
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+	padding: 5px;
+	margin: 0;
+	text-align: center;
+	border: 1px solid #CCC;
+	font-size: small;
+}
+
